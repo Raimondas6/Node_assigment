@@ -1,0 +1,67 @@
+.App {
+  padding: 50px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.f-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.w-300 {
+  width: 300px;
+}
+
+.space-btw {
+  justify-content: space-between;
+}
+
+.grow1 {
+  flex: 1;
+}
+
+.p-20 {
+  padding: 0 20px;
+}
+
+.img {
+  height: 300px;
+}
+
+.input {
+  padding: 10px;
+}
+
+.toolbar-wrapper {
+  background-color: #eaeaea;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 30px;
+}
+
+.toolbar-link-wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.toolbar-link-wrapper > a {
+  color: black;
+}
+
+.itemsListWrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.itemsListWrapper > img {
+  width: 100px;
+  height: 100px;
+  padding-right: 10px;
+}
+
